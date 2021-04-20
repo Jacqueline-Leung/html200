@@ -10,5 +10,3 @@ console.log (arr.splice(2,1));
 ["Those","Easter","eggs","are","beautiful","."]
 // [object Array] (1)
 ["eggs"]
-
-test
